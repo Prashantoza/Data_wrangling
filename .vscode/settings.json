@@ -1,3 +1,10 @@
 {
-    "python.pythonPath": "C:\\Users\\Prashant\\.conda\\envs\\myenv\\python.exe"
+
+    "python.pythonPath": "C:\\ProgramData\\Anaconda3\\python.exe",
+
+    "python.autoComplete.extraPaths": [
+        "C:\\Users\\Prashant\\AppData\\Local\\Programs\\Python\\Python38\\python.exe"
+        ],
+    
+
 }
